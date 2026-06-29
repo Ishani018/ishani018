@@ -25,7 +25,7 @@ Hi! I'm **Ishani**.
 
 I'm a Computer Science student at **PES University** who enjoys building secure AI systems, full-stack products, and cozy pixel-art games.
 
-Currently researching **AI Security** at **IIT Kharagpur**, leading my capstone project **Kavach**, and spending the rest of my time building games.
+Currently researching **AI Security** at **IIT Kharagpur**, architecting my capstone project **Kavach** alongside my Teammate, and spending the rest of my time building games.
 
 ---
 
