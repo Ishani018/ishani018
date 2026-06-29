@@ -1,164 +1,189 @@
-
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="banner"/>
+<img src="./assets/banner.jpeg" width="100%" alt="Banner"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=C9D1D9&center=true&vCenter=true&width=700&lines=Researching+AI+Security.;Building+cozy+pixel+games.;Breaking+things+(ethically)." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=C9D1D9&center=true&vCenter=true&width=650&lines=Researching+AI+Security.;Building+cozy+pixel+games.;Breaking+things+(ethically)." />
 
-<br>
+<br><br>
 
 <a href="https://github.com/Ishani018">GitHub</a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/ishani-chakraborty-722708296/">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="mailto:ishani.chakraborty2005@gmail.com">Email</a>
+  •   <a href="https://www.linkedin.com/in/ishani-chakraborty-722708296/">LinkedIn</a>
+  •   <a href="mailto:ishani.chakraborty2005@gmail.com">Email</a>
 
 </div>
 
 ---
 
-# hey, i'm ishani 👋
+## <img src="./assets/icons/happyicon.png" width="22"> About
 
-Computer Science @ **PES University**
+Hi! I'm **Ishani**.
 
-Currently researching **AI Security** at **IIT Kharagpur** while building full-stack products and cozy pixel-art games.
+I'm a Computer Science student at **PES University** with a passion for building secure AI systems, full-stack products, and cozy pixel-art games.
 
-Things I enjoy:
-
-- 🛡️ AI Security
-- 🎮 Game Development
-- 🌱 Pixel Art
-- 🔍 Reverse Engineering
-- 🤖 LLM Systems
+Right now I'm researching **AI Security** at **IIT Kharagpur**, leading my capstone project **Kavach**, and making games whenever I get the chance.
 
 ---
 
-# currently building
+## <img src="./assets/icons/currentjob.png" width="22"> Active Quests
 
-## 🛡️ Kavach
+### 🛡 Kavach
 
-A runtime security monitor for LLM agents.
+Runtime security monitor for LLM agents.
 
-- Tool-call inspection
-- 400+ attack patterns
-- Multi-stage detection
-- AISec 2026 submission
+* Runtime tool-call inspection
+* 400+ attack signatures
+* Multi-stage detection pipeline
+* AISec 2026 submission
+
+<br>
+
+### 📈 AI Insurance Pricing Framework
+
+Research @ IIT Kharagpur
+
+Developing an insurance pricing framework for organizations deploying LLMs using benchmark evaluation and governance scoring.
+
+<br>
+
+### 🌱 Potted
+
+A cozy pixel-art nursery simulator where players grow flowers, rescue pets, and decorate their own little shop.
 
 ---
 
-## 📈 AI Insurance Pricing Framework
+## <img src="./assets/icons/bulb.png" width="22"> Featured Projects
 
-Research project at IIT Kharagpur exploring insurance pricing models for organizations deploying LLMs.
+### 🌱 Potted
 
----
+A relaxing pixel-art nursery simulator focused on decorating, collecting plants, and caring for pets.
 
-## 🌿 Potted
-
-A cozy pixel-art nursery simulator where players grow plants, rescue pets and decorate rooms.
+`React Native`
 
 ---
-
-# featured projects
-
-### 🛡️ Kavach
-Runtime security for AI agents.
 
 ### 💸 FinLit
-Financial literacy RPG built with React Native.
 
-### 🌿 Potted
-Pixel-art nursery game.
+A financial literacy RPG where players navigate careers, investments, and life events.
 
-### 🍛 Rasoi
-Indian cooking simulator.
-
-### 📚 Word Search Puzzle Generator
-AI-powered KDP puzzle book generator.
+`React Native` • `Expo` • `FastAPI`
 
 ---
 
-# research
+### 🍛 Rasoi
+
+A cozy cooking simulator celebrating regional Indian cuisine.
+
+`React Native`
+
+---
+
+### 📚 Word Search Puzzle Generator
+
+AI-powered SaaS for generating KDP-ready puzzle books.
+
+`Next.js` • `TypeScript` • `Groq API`
+
+---
+
+## <img src="./assets/icons/achivements.png" width="22"> Achievements
+
+* 🏆 1st Place — PES OS Forensic Edition CTF
+* 🏦 Kavach selected for the JPMC Innovation Panel
+* 🎓 B.Tech CSE @ PES University (CGPA: 8.33)
+
+---
+
+## <img src="./assets/icons/grad_cap.png" width="22"> Research
 
 ### IIT Kharagpur
 
-Researching governance and insurance pricing for LLM deployments.
+Working on insurance pricing models for organizations deploying LLMs.
+
+**Areas**
+
+* AI Security
+* Governance
+* Hallucination Risk
+* Privacy
+* Risk Assessment
+
+<br>
 
 ### SPJIMR
 
-Built an NLP pipeline for ESG analysis across 800+ annual reports.
+Designed an NLP pipeline across **800+ annual reports** using:
+
+* Named Entity Recognition
+* Semantic Search
+* Topic Modelling (LDA)
 
 ---
 
-# tech
+## <img src="./assets/icons/career.png" width="22"> Tech
 
-`Python` `TypeScript` `React` `React Native` `Next.js` `FastAPI` `TailwindCSS` `SQL` `GitHub Actions` `Wireshark` `Burp Suite`
+```text
+Languages
+Python • TypeScript • JavaScript • C • HTML • CSS
+
+Frameworks
+React • React Native • Next.js • FastAPI • Tailwind CSS
+
+Tools
+Git • GitHub Actions • SQL • Wireshark • Burp Suite • Kali Linux
+```
 
 ---
 
-# github activity
+## <img src="./assets/icons/bulb.png" width="22"> GitHub Activity
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ishani018&show_icons=true&theme=github_dark&hide_border=true"/>
-<img width="48%" src="https://streak-stats.demolab.com?user=Ishani018&theme=github-dark&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ishani018&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Ishani018&theme=github-dark&hide_border=true"/>
+
 </p>
 
+<br>
+
 <p align="center">
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ishani018&theme=github-compact&hide_border=true"/>
+
 </p>
+
+<br>
 
 <p align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Ishani018/Ishani018/output/github-contribution-grid-snake-dark.svg"/>
+
+<img width="100%" src="https://raw.githubusercontent.com/Ishani018/ishani018/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
 
-# currently learning
-
-- Agent Security
-- Reverse Engineering
-- Detection Engineering
-- Distributed Systems
-- Game Development
-
----
+## <img src="./assets/icons/inbox.png" width="22"> Let's Connect
 
 <div align="center">
 
-> *Building AI that's useful, secure, and a little more fun.*
+<a href="mailto:ishani.chakraborty2005@gmail.com">Email</a>
+
+•
+
+<a href="https://github.com/Ishani018">GitHub</a>
+
+•
+
+<a href="https://www.linkedin.com/in/ishani-chakraborty-722708296/">LinkedIn</a>
 
 </div>
 
-<!--
-Snake workflow:
+<br>
 
-.github/workflows/snake.yml
+<div align="center">
 
-name: Generate Snake
+*"Always building. Always learning."*
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Ishani018
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
+</div>
