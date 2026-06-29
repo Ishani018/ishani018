@@ -6,10 +6,9 @@
 <a href="https://github.com/Ishani018"><img src="https://img.shields.io/badge/GitHub-Ishani018-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/ishani-chakraborty-722708296/"><img src="https://img.shields.io/badge/LinkedIn-Ishani%20Chakraborty-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:ishani.chakraborty2005@gmail.com"><img src="https://img.shields.io/badge/Email-ishani.chakraborty2005%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=Ishani018&label=Profile%20Views&color=8A7960&style=flat-square" alt="Profile views"/>
 </p>
 
-CS senior @ PES University, Bangalore · research intern @ IIT Kharagpur
+CS senior @ PES University, Bangalore · research intern @ IIT Kharagpur  
 building security tooling, an actuarial model for AI risk, and a small pile of games on the side.
 
 </div>
@@ -18,28 +17,11 @@ building security tooling, an actuarial model for AI risk, and a small pile of g
 
 ## currently
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Kavach** — runtime security layer for LLM agents. Screens every tool call against a 400-pattern attack library before execution, routed across four specialized detection modules. Red-teaming turned up a 3.36% bypass rate via Windows system command substitution; traced the root cause and shipped a fix ahead of submission. Targeting AISec 2026 (ACM CCS). PES capstone, lead researcher.
 
-### 🛡️ Kavach
-Runtime security layer for LLM agents. Screens every tool call against a 400-pattern attack library before execution, routed across four specialized detection modules. Red-teaming turned up a 3.36% bypass rate via Windows system command substitution; traced the root cause and shipped a fix ahead of submission.
-
-`Targeting AISec 2026 (ACM CCS)` · PES capstone, lead researcher
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 AI Insurance Pricing Framework
-IIT KGP, with Prof. Pabitra Mitra. A two-step risk model (automated benchmark scoring + governance checklist) that sorts LLM deployments into insurance coverage tiers with set premiums, built for small businesses deploying AI in India. Adapting an expert-validated risk severity scale for finer granularity so it can work as a pricing input — first time that's been done.
-
-</td>
-</tr>
-</table>
+**AI Insurance Pricing Framework** — IIT KGP, with Prof. Pabitra Mitra. A two-step risk model (automated benchmark scoring + governance checklist) that sorts LLM deployments into insurance coverage tiers with set premiums, built for small businesses deploying AI in India. Adapting an expert-validated risk severity scale for finer granularity so it can work as a pricing input — first time that's been done.
 
 ## games — built solo, art included
-
-<div align="center">
 
 | project | what it is | stack |
 |:---|:---|:---|
@@ -48,33 +30,13 @@ IIT KGP, with Prof. Pabitra Mitra. A two-step risk model (automated benchmark sc
 | 💸 **FinLit** | financial literacy RPG, 57 life events from 18–75 | `React Native` `Expo` `FastAPI` |
 | 🔤 **Pause** | word search game for uptosix (family's edtech studio) | `React Native` `Zustand` |
 
-</div>
-
 ## other projects
 
-<details open>
-<summary><b>Pramaan</b> — credit decisioning engine for supply-chain fraud</summary>
-<br/>
-Circular-trading detection via a counterparty intelligence engine. Built for the Intelli-Credit hackathon.
-<br/><br/>
-<code>FastAPI</code> <code>React</code>
-</details>
-<br/>
+**Pramaan** — credit decisioning engine for supply-chain fraud; circular-trading detection via a counterparty intelligence engine. Built for the Intelli-Credit hackathon. `FastAPI` `React`
 
-<details open>
-<summary><b>SPJIMR research</b> — ESG theme extraction from annual reports</summary>
-<br/>
-NLP pipeline (dynamic vocabulary + NER filters) that pulled BRSR sections out of 800+ annual reports, then LDA and semantic search to surface practice-rooted ESG themes over corporate buzzwords.
-</details>
-<br/>
+**SPJIMR research** — NLP pipeline (dynamic vocabulary + NER filters) that pulled BRSR sections out of 800+ annual reports, then LDA and semantic search to surface practice-rooted ESG themes over corporate buzzwords.
 
-<details open>
-<summary><b>Word Search Puzzle Book Generator</b> — SaaS for KDP-optimized puzzle books</summary>
-<br/>
-AI-driven theme expansion, server-side auth, client-side PDF generation.
-<br/><br/>
-<code>Next.js 14</code> <code>TypeScript</code> <code>Groq API</code>
-</details>
+**Word Search Puzzle Book Generator** — SaaS for KDP-optimized puzzle books. AI-driven theme expansion, server-side auth, client-side PDF generation. `Next.js 14` `TypeScript` `Groq API`
 
 ## a few things
 
